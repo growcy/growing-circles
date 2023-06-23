@@ -19,8 +19,5 @@ bearbeitet: 2023-06-23 14:19
 
 siehe auch:
 
-```dataview
-list 
-from [[#this.file.name]] and
-!outgoing([[#this.file.name]])
-```
+- [[posts/Perspektive beeinflusst Überzeugungen.md|Perspektive beeinflusst Überzeugungen]]
+
