@@ -13,7 +13,7 @@ bearbeitet: 2023-06-23 14:19
 	- die Perspektive legt fest, was ich sehen kann, und
 	- diese eingeschränkte Sicht verstärkt wiederum meine Überzeugung.
 
-![[img/Perspektivische Blindheit verstärkt Überzeugungen.png]]
+![[Perspektivische Blindheit verstärkt Überzeugungen.png]]
 
 ---
 
